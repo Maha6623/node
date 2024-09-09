@@ -1,0 +1,16 @@
+NODE JS
+
+npm i nodemon-g
+
+npm init 
+
+npm i express --express js download command
+
+
+npm uninstall --express js uninstall command
+
+
+const express = require("express"); // import the package
+const app = express();  // function 
+const port= 8000; // port number
+app.listen(port)  ;  //
